@@ -32,6 +32,7 @@ class StockPortfolioAdmin(admin.ModelAdmin):
             obj.user = request.user
             obj.created_by = request.user
         obj.modified_by = request.user
+        obj.investment_amount += obj.earnings_losses
         obj.save()
 
 admin.site.register(StockPortfolio, StockPortfolioAdmin)
