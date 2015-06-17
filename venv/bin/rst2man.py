@@ -1,4 +1,4 @@
-#!/Users/terrywong/.virtualenvs/venv/bin/python
+#!/Users/terrywong/stock_portfolios_server/venv/bin/python
 
 # Author: 
 # Contact: grubert@users.sf.net

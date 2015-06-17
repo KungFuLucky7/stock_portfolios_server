@@ -1,4 +1,4 @@
-#!/Users/terrywong/.virtualenvs/venv/bin/python
+#!/Users/terrywong/stock_portfolios_server/venv/bin/python
 
 # $Id: rst2xetex.py 7038 2011-05-19 09:12:02Z milde $
 # Author: Guenter Milde
